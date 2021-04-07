@@ -1,0 +1,9 @@
+{
+	"name": "chainewadf",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5fa59dad-7da2-40c3-9959-0f569b29e961",
+		"tenantId": "921669b7-76fb-4058-b5e2-cc266af1922d"
+	}
+}
