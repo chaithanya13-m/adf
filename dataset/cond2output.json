@@ -1,0 +1,18 @@
+{
+	"name": "cond2output",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStoragedest1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"container": "output"
+			}
+		},
+		"schema": {}
+	}
+}
